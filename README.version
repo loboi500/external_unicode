@@ -1,4 +1,3 @@
-URL: http://www.unicode.org/Public/10.0.0/ucd/ and https://unicode.org/Public/emoji/13.1/
-Version: 10.0.0 beta and 13.1
-BugComponent: 25699
-Owners: nona, siyamed
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7da4a38f7cdf7ced532e93451d0feb3658af4a1d635264ba1324ea9b6c5338f
+size 162

@@ -1,12 +1,3 @@
-URL: http://www.unicode.org/Public/10.0.0/ucd/
-URL: https://unicode.org/Public/emoji/13.1/
-Version: Unicode 10.0.0 beta and emoji 13.1
-License: Unicode
-License File: NOTICE
-
-Description:
-A selection of data files from Unicode.
-
-Local Modifications:
-An additions directory has been added for sequences that we need to support
-in addition to what's specified by Unicode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d92c13066a809a739d4a5378f0622afe96888481af0ae769f0bbd22c9858bf33
+size 369
